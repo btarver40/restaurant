@@ -1,0 +1,156 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1, .health {
+  text-align: center;
+  font-size: 50px;
+}
+
+
+h2 {
+  text-align: center;
+  font-size: 30px;
+}
+
+a:hover {
+opacity: 0.7;
+}
+a {
+  font-size: 30px;
+  padding: 20px;
+}
+.photo1 {
+  height: 300px;
+  width: 280px;
+  border: 2px solid black;
+  
+}
+.photo2 {
+  height: 300px;
+  width: 280px;
+  border: 2px solid black;
+}
+.photo3 {
+  /* display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-items: center;*/
+  height: 300px;
+  width: 280px;
+  border: 2px solid black;
+}
+/* .photo-grid {
+  display: flex;
+  align-content: center;
+} */
+
+/* MENU SECTION */
+.bowl1 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.bowl2 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+
+.bowl4 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.shake1 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.shake2 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.shake3 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+} 
+
+.protein1 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.protein2 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+.protein3 {
+  width: 400px;
+  height: 400px;
+  padding: 20px;
+}
+
+
+.smoothiebowl {
+  padding: 30px;
+}
+.bowls {
+  border: 2px solid black;
+  color: white;
+  background-color: black
+}
+.title {
+  border: 2px solid black;
+  color: white;
+  background-color: black
+}
+
+
+/* /* * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+.image {
+  background-image: url("/Users/biancatarver/Devpoint2018/Save/restaurant/photos/photowithgreen.jpg");
+  /* background-color: black;
+  overflow: scroll;
+  background-repeat: no-repeat; */
+  /* height: 300px;
+  width: 200px;
+  display: flex;
+} */
+
+/* h1 {
+  font-family: 'EB Garamond', serif;
+  justify-content: space-around;
+  font: bold;
+  font-size: 35px;
+  display: flex;
+
+}
+h2 {
+  font-family: 'EB Garamond', serif;
+  justify-content: space-around;
+  font: bold;
+  font-size: 35px;
+  display: flex;
+  margin: 50px;
+}
+
+h3 {
+  font: bold;
+  font-size: 30px;
+  text-align: center; */
+/* }
+button {
+  align-content: center;
+}  */ 
