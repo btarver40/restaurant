@@ -103,12 +103,14 @@ a {
 .bowls {
   border: 2px solid black;
   color: white;
-  background-color: black
+  background-color: black;
+  padding: 20px;
 }
 .title {
   border: 2px solid black;
   color: white;
-  background-color: black
+  background-color: black;
+  padding: 20px;
 }
 
 
